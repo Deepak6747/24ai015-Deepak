@@ -5,4 +5,4 @@
 * “Execute Workflow” click pannina manual-ahum run aagum.
 
 # Screenshot
-<img width="1052" height="687" alt="image" src="https://github.com/user-attachments/assets/6a6e38e1-d434-4ba5-8e1c-17fd2dc50749" />
+<img width="971" height="730" alt="image" src="https://github.com/user-attachments/assets/77c5e446-d1cb-4d47-807e-7e9d5dc090ac" />
